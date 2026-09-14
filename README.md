@@ -29,10 +29,12 @@ To Simulate Triangular-wave-generator using Op-amp
  
 
   **CIRCUIT DIAGRAM**
+  
 <img width="664" height="406" alt="image" src="https://github.com/user-attachments/assets/ef2c76d1-3c8e-4c46-9db3-4578b07b4a05" />
 
 
   **Output waveform**
+  
   <img width="774" height="624" alt="image" src="https://github.com/user-attachments/assets/34c4f14a-f726-4640-8ef6-246a40f2dd6a" />
 
 
